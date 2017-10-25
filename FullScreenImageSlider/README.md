@@ -1,0 +1,1 @@
+A fullscreen image slider.

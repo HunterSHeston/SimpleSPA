@@ -1,1 +1,1 @@
-# SimpleSPA
+A set of simple fullscreen web pages
